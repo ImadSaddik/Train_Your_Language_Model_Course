@@ -1,31 +1,28 @@
 26/02/2025, 09:15 - Person 1: Hey  
 26/02/2025, 09:16 - Person 1: How are you?  
-26/02/2025, 09:18 - Person 2: Hey! I’m good, what about you?  
-26/02/2025, 09:20 - Person 1: I’m good too, just a bit tired  
+[26/02/2025, 9:18 AM] ~ Person 2: Hey! I’m good, what about you?  
+[26/02/2025, 9:20 AM] ~ Person 1: I’m good too, just a bit tired  
 26/02/2025, 09:21 - Person 2: Long night?  
-26/02/2025, 09:22 - Person 1: Yeah, had to finish some work  
+[26/02/2025, 9:22 AM] ~ Person 1: Yeah, had to finish some work  
 26/02/2025, 09:23 - Person 1: It took longer than expected  
 26/02/2025, 09:24 - Person 2: I get that, I slept late too  
-26/02/2025, 09:25 - Person 1: What were you doing?  
-26/02/2025, 09:26 - Person 2: Watching a show, then got stuck on YouTube 😂  
+[26/02/2025, 9:25 AM] ~ Person 1: What were you doing?  
+[26/02/2025, 9:26 AM] ~ Person 2: Watching a show, then got stuck on YouTube 😂  
 26/02/2025, 09:27 - Person 1: Hahaha classic, which show?  
 26/02/2025, 09:29 - Person 2: Breaking Bad, ever watched it?  
-26/02/2025, 09:30 - Person 1: Oh yeah, one of my favorites!  
+[26/02/2025, 9:30 AM] ~ Person 1: Oh yeah, one of my favorites!  
 26/02/2025, 09:31 - Person 1: It just keeps getting better  
-26/02/2025, 09:32 - Person 2: Same! I’m at season 4 now  
-26/02/2025, 09:33 - Person 1: Oh man, things are about to get intense  
-26/02/2025, 09:34 - Person 1: You’re in for a ride  
-26/02/2025, 09:35 - Person 2: I know, I can’t wait 😬  
+[26/02/2025, 9:32 AM] ~ Person 2: Same! I’m at season 4 now  
+[26/02/2025, 9:33 AM] ~ Person 1: Oh man, things are about to get intense  
+[26/02/2025, 9:34 AM] ~ Person 1: You’re in for a ride  
+[26/02/2025, 9:35 AM] ~ Person 2: I know, I can’t wait 😬  
 26/02/2025, 09:36 - Person 1: Btw, are we still meeting up later?  
 26/02/2025, 09:37 - Person 2: Yeah, what time?  
-26/02/2025, 09:38 - Person 1: How about 5 PM?  
-26/02/2025, 09:39 - Person 1: Or do you prefer later?  
+[26/02/2025, 9:38 AM] ~ Person 1: How about 5 PM?  
+[26/02/2025, 9:39 AM] ~ Person 1: Or do you prefer later?  
 26/02/2025, 09:40 - Person 2: 5 PM works for me  
 26/02/2025, 09:41 - Person 1: Cool! The usual café?  
 26/02/2025, 09:42 - Person 2: Sounds good, see you then!  
-26/02/2025, 09:43 - Person 1: Great! Oh btw, did you finish that project?  
-26/02/2025, 09:44 - Person 2: Almost, still a few things left  
-26/02/2025, 09:45 - Person 1: Need any help?  
 26/02/2025, 09:46 - Person 2: Maybe, I’ll show you later  
 26/02/2025, 09:47 - Person 1: Sure, I’ll take a look  
 26/02/2025, 09:48 - Person 2: Appreciate it!  
